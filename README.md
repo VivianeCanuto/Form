@@ -21,7 +21,7 @@ Como Usar
 Pré-visualização
 
 Pré-visualização do formulário
-![Login Page Preview](capa.png)
+![Login Page Preview](page.png)
 
 
 Contribuição
